@@ -12,7 +12,7 @@ This repository stores learning materials for data structures.
 
 哈希表Hash table 217/389/496  
 
-集合set 217/705（设计）  
+集合set 217/705
 
 堆Heap 215/692  
 
