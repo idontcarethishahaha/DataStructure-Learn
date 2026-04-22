@@ -18,5 +18,5 @@ This repository stores learning materials for data structures.
 
 树
 
-图
+图论
 
