@@ -7,9 +7,9 @@ This repository stores learning materials for data structures.
 链表LinkedList 203/206  
 21、23、141、160、142、148、206、234
 
-队列Queue 933/225（用队列实现栈）/622/641  
+队列Queue 933/225/622/641  
 
-栈stack 20/496/232（用栈实现队列）  
+栈stack 20/496/232
 
 哈希表Hash table 217/389/496  
 
