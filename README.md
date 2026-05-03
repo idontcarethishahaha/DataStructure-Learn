@@ -9,11 +9,11 @@ This repository stores learning materials for data structures.
 
 队列Queue 933/225/622/641  
 
-栈stack 20/496/232
+栈Stack 20/496/232
 
 哈希表Hash table 217/389/496  
 
-集合set 217/705
+集合Set 217/705
 
 堆Heap 215/692  
 
