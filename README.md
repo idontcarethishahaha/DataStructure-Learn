@@ -18,7 +18,7 @@ This repository stores learning materials for data structures.
 
 堆Heap 215/692  
 
-树
+二叉树
 
 图论
 
